@@ -12,7 +12,7 @@ public class Knight extends ChessPiece {
 
     @Override
     public String toString(){
-        return "C";
+        return "Kn";
     }
 
     public boolean canMove(Position position){
